@@ -17,4 +17,4 @@
 6. 🔓 Executar decrypter.py ↔️ Gera teste.txt ![Clique para ver a execução](images/comando-kali-nano-decrypter-py.PNG) 
 7. 📂 Arquivos restaurados ![Clique para ver a execução](images/kali-nano-teste-txt-decrypter.PNG) 
 
-⚠️ **Atenção**: Este projeto não deve ser usado para fins maliciosos. É apenas um desafio acadêmico.
+⚠️ **Atenção**: O desafio é estritamente educacional e não deve ser utilizado para fins maliciosos.
