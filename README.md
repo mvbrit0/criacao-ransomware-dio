@@ -16,4 +16,5 @@
 5. 📂 Arquivos criptografados ![Clique para ver a execução](images/kali-nano-teste-encrypter-txt-ransomwaretroll.PNG) 
 6. 🔓 Executar decrypter.py ↔️ Gera teste.txt ![Clique para ver a execução](images/comando-kali-nano-decrypter-py.PNG) 
 7. 📂 Arquivos restaurados ![Clique para ver a execução](images/kali-nano-teste-txt-decrypter.PNG) 
-⚠️ **Atenção**: Este projeto não deve ser usado para fins maliciosos. É apenas uma simulação acadêmica.
+
+⚠️ **Atenção**: Este projeto não deve ser usado para fins maliciosos. É apenas um desafio acadêmico.
