@@ -1,9 +1,9 @@
 # 📘 Desafio DIO: Implementação de um Ransomware para criptografar arquivos
  ## 🚀  Tecnologias Utilizadas
-- Python: 3.13.14
-- Biblioteca: pyaes
-- Ambiente: Kali Linux
-- Editor: Nano
+- Python: `3.13.14`
+- Biblioteca: *pyaes*
+- Ambiente: `Kali Linux`
+- Editor: `Nano`
 ## 🔐 Criptografia e Descriptografia
 ### Arquivos do projeto
 - **encrypter.py** ➡️ criptografa arquivos usando chave simétrica.  
@@ -16,3 +16,4 @@
 5. 📂 Arquivos criptografados ![Clique para ver a execução](images/kali-nano-teste-encrypter-txt-ransomwaretroll.PNG) 
 6. 🔓 Executar decrypter.py ↔️ Gera teste.txt ![Clique para ver a execução](images/comando-kali-nano-decrypter-py.PNG) 
 7. 📂 Arquivos restaurados ![Clique para ver a execução](images/kali-nano-teste-txt-decrypter.PNG) 
+⚠️ **Atenção**: Este projeto não deve ser usado para fins maliciosos. É apenas uma simulação acadêmica.
