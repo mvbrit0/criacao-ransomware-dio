@@ -3,7 +3,7 @@
 - Python: `3.13.14`
 - Biblioteca: *pyaes*
 - Ambiente: `Kali Linux`
-- Editor: `Nano`
+- Editor: `nano`
 ## 🔐 Criptografia e Descriptografia
 ### Arquivos do projeto
 - **encrypter.py** ➡️ criptografa arquivos usando chave simétrica.  
