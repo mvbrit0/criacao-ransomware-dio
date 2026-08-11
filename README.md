@@ -13,14 +13,14 @@
 1. 📂 Criação arquivos teste.txt ➡️ encrpyter.py ➡️ decrypert.py ![Clique para ver a execução](images/criacao-kali-arquivos-teste-encrypter-decrypter.PNG)
 2. 📂 Código encrypter.py ↔️ Código decrypter.py ↔️ Cria teste.txt ![Clique para ver a execução](images/kali-nano-codigo-encrypter-decrypter-py.PNG) ![Clique para ver a execução](images/kali-teste-txt.PNG) 
 4. 🔐 Executar encrypter.py ↔️ Gera teste.txt.ransomwaretroll ![Clique para ver a execução](images/comando-kali-nano-encrypter-py.PNG)
+
 5. 📂 Arquivos criptografados
-
 ![Clique para ver a execução](images/kali-nano-teste-encrypter-txt-ransomwaretroll.PNG) 
+
 6. 🔓 Executar decrypter.py ↔️ Gera teste.txt
-
 ![Clique para ver a execução](images/comando-kali-nano-decrypter-py.PNG) 
-7. 📂 Arquivos restaurados
 
+7. 📂 Arquivos restaurados
 ![Clique para ver a execução](images/kali-nano-teste-txt-decrypter.PNG) 
 
 ⚠️ **Atenção**: O desafio é estritamente educacional e não deve ser utilizado para fins maliciosos.
