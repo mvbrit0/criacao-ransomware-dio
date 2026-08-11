@@ -1,5 +1,5 @@
 # 📘 Desafio DIO: Implementação de um Ransomware para criptografar arquivos
- 🚀  Tecnologias Utilizadas
+ ## 🚀  Tecnologias Utilizadas
 - Python: 3.13.14
 - Biblioteca: pyaes
 - Ambiente: Kali Linux
